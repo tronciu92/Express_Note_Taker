@@ -14,4 +14,4 @@ As the front end was already created, I needed to look at connecting this to the
 6. The delete method needs to locate and delete specific notes from the server
 
 ## Installing
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your terminal, and then open `http://localhost:8080` in your preferred browswer. The Note Taker app is live on Heroku for you to use as well.
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your terminal, and then open `http://localhost:8080` in your preferred browswer. The Note Taker app is <a href=" https://tronciu-note-taker.herokuapp.com/">live on Heroku</a> for you to use as well.
